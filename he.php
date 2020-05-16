@@ -1,3 +1,3 @@
 <?php
-echocdec "hello guys"
+echo "hello guys"
 ?>
