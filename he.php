@@ -1,0 +1,3 @@
+<?php
+echocdec "hello guys"
+?>
