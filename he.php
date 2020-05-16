@@ -1,3 +1,3 @@
 <?php
-echvcf"hello guys"
-?jnk
+echo"hello guys"
+?>
